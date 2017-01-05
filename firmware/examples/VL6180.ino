@@ -25,9 +25,9 @@
  * Distributed as-is; no warranty is given.
  ******************************************************************************/
 
-#include <Wire.h>
+#include "application.h"
 
-#include <SparkFun_VL6180X.h>
+#include "SparkFun_VL6180X.h"
 
 /*const float GAIN_1    = 1.01;  // Actual ALS Gain of 1.01
 const float GAIN_1_25 = 1.28;  // Actual ALS Gain of 1.28
