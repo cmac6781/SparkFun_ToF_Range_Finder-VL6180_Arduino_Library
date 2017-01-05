@@ -26,7 +26,7 @@
  * Distributed as-is; no warranty is given.
  ******************************************************************************/
 
-#include <Wire.h>
+
 #include "SparkFun_VL6180X.h"
 
 VL6180x::VL6180x(uint8_t address)
